@@ -14,7 +14,7 @@ Utilizei o ChatGPT para estruturar e desenvolver o conteúdo do e-book, abstrain
 ## 🚀 Resultados
 O e-book apresenta um sistema sólido, desafiador e envolvente, que expande os limites do RPG tradicional. Ele demonstra como mecânicas equilibradas e uma narrativa profunda podem transformar a experiência dos jogadores.
 
-[LINK PARA O E-BOOK AQUI](/Mundus RPG - Uma Introdução.pdf)
+[LINK PARA O E-BOOK AQUI](https://github.com/matheuslima25/lab-natty-or-not/blob/main/Mundus%20RPG%20-%20Uma%20Introdu%C3%A7%C3%A3o.pdf)
 
 ## 💭 Reflexão
 Criar este material foi uma experiência incrível. O Mundus RPG nasceu para oferecer algo além do comum: um RPG onde escolhas importam, evolução faz sentido e desafios realmente testam a habilidade dos jogadores. Este e-book é apenas o começo de um universo cheio de possibilidades.
